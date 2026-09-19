@@ -1,19 +1,14 @@
-Bikram Dhamala — Multi-Page Portfolio
+BIKRAM DHAMALA — 6-PAGE STANDALONE PORTFOLIO
+
+Open index.html directly in Chrome/Edge.
 
 Pages:
-1. index.html — Home
-2. about.html — About
-3. skills.html — Skills
-4. projects.html — Projects
-5. experience.html — Experience
-6. contact.html — Contact
+Home | About | Skills | Projects | Experience | Contact
 
-Assets:
-- assets/style.css
-- assets/script.js
-- assets/photos/photo1.jpeg
-- assets/photos/photo2.jpeg
-- assets/photos/photo3.jpeg
-
-The home hero automatically changes photos every 3 seconds.
-Visitors have no photo-upload controls.
+Everything needed for the website is inside the six HTML files:
+- CSS is embedded
+- JavaScript is embedded
+- The three portfolio photos are embedded in index.html
+- No local CSS/JS/image folder is required
+- Viewers cannot upload photos
+- Home photos auto-change every 3 seconds
